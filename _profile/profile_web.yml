@@ -28,7 +28,7 @@ basics:
     value: Mechanical Engineer
     render: true
   image:
-    value: PS Copy 1.JPG
+    value: PS Copy 1.jpg
     render: true
   email:
     value: pawansutar@outlook.com
@@ -87,9 +87,9 @@ work:
         endDate: "12/2020" # string
         active: true
         highlights:
-          - detail: Sample text written as part of the demo for profileio. Sample text written as part of the demo for profileio
+          - detail: Developed an unsteady, one-dimensional numerical model in FORTRAN to simulate the effects of wall-recesses in Mazda Comprex supercharger using simple lumped volume technique
           - brief: ""
-            detail: This is the sample text written for the demo of profileio
+            detail: Extended the capability of in-house solver to incorporate the wall-recesses, which will allow the design of wall-recesses in future applications of wave rotors, including wave rotor combustors (wave turbines) and pulse detonation engines
       render: true
     - value:
         name: Industrial Assessment Center
@@ -101,25 +101,22 @@ work:
         endDate: "05/2019" # string
         active: false # `true` if currently working, else `false`
         highlights:
-          - detail: Sample text written as part of the demo for profileio. Sample text written as part of the demo for profileio
+          - detail: Performing energy audits for small and medium sized companies (ASHRAE Level 1&2 audits)
           - brief: ""
-            detail: This is the sample text written for the demo of profileio
+            detail: Participated in four industrial energy audits, contributing to the energy cost saving of over $50,000
       render: true
     - value:
-        name: Texas A&M
-        location: Madison, WI
-        brief: University
-        position: Research Assistant
-        url: https://wisc.edu
-        startDate: '2013'
-        endDate: '2017'
+        name: Vision Engineering Company
+        location: Kolhapur (India)
+        brief: Engineering Firm
+        position: Technical Support Intern
+        url: http://www.visionenggco.com/
+        startDate: '01/2018'
+        endDate: '05/2018'
         highlights:
-          - detail: Implemented phase-change capabilities into in-house developed solver to perform two-phase boiling simulations
-          - detail: Developed fourth order accurate semi-Lagrangian method tosolve Hamilton-Jacobi equations that canimprove the quality of two-phase fluid simulations in thecontext of level set methods
-          - detail: Developed and maintained a fully parallelized two-phase flow solver in C++ with the aid ofgradient augmented level set and reinitialization algorithms and Ghost Fluid Method
-          - detail: Performed a detailed numerical study on interFoam, a two-phase flow solver shipped with OpenFOAM C++ libraries
-          - detail: Developed post-processing utilities in C++ to achieve photo-realistic rendering for density fieldsfromOpenFOAM results using Mitsuba
-      render: false
+          - detail: Worked closely with sales and marketing team to transition customers from competitive products to Vision products
+          - detail: Provided technical support to installation of equipment and consultation for maintenance activities and best practices
+      render: true
 education:
   label: Education
   rank: 1
@@ -132,9 +129,7 @@ education:
         degree: Master of Science
         grade: 3.45
         gradeTotal: 4.0
-        courses:
-          - CS521 - Computer Graphics
-          - CS801 - HPC
+        Master's Thesis: Numerical Simulation of Pressure Wave Supercharger with Pockets Operating at Different Speeds
       render: true
     - value:
         institution: KIT's College of Engineering (Autonomous)
