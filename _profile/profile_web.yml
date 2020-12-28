@@ -28,7 +28,7 @@ basics:
     value: Mechanical Engineer
     render: true
   image:
-    value: pic.png
+    value: PS Copy 1.JPG
     render: true
   email:
     value: pawansutar@outlook.com
@@ -137,11 +137,11 @@ education:
           - CS801 - HPC
       render: true
     - value:
-        institution: Texas A&M
-        url: https://wisc.edu
-        major: Computer Science and Mathematics
+        institution: KIT's College of Engineering (Autonomous)
+        url: https://www.kitcoek.in
+        major: Mechanical Engineering
         minor: ''
-        degree: B.S.
+        degree: Bachelor of Engineering
       render: true
 projects:
   label: "Projects"
