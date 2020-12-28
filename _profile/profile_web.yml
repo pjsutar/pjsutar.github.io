@@ -1,7 +1,7 @@
 # For all available keys and their usages please refer to https://acrlakshman.github.io/profileio/docs/
 # Comments for the configurations below will be updated soon.
 config:
-  homepage: "https://profileio.lakshmananumolu.com"
+  homepage: "https://pjsutar.github.io"
   theme:
     value: basic
     render: true
@@ -22,22 +22,22 @@ config:
     resume: resume.pdf # path (relative to _profile/files/) for user submitted resume
 basics:
   name:
-    value: Lakshmi Vera
+    value: Pawan Sutar
     render: true
   label:
-    value: Senior Software Engineer
+    value: Mechanical Engineer
     render: true
   image:
     value: pic.png
     render: true
   email:
-    value: anumolu@uwalumni.com
+    value: pawansutar@outlook.com
     render: true
   phone:
     value: ''
     render: false
   url:
-    value: 'https://profileio.lakshmananumolu.com'
+    value: 'https://pjsutar.github.io'
     render: false
   summary:
     label: About me
@@ -45,30 +45,30 @@ basics:
     render: true
   location:
     value:
-      address: Street
-      postalCode: WI XXXXX
-      city: Madison
+      address: Indianapolis
+      postalCode: IN 46202
+      city: Indianapolis
       countryName: USA
-      region: Wisconsin
+      region: Indiana
     render: false
   profiles:
     - value:
         network: googlescholar
         url: https://scholar.google.com/citations?user=VcGv5cEAAAAJ&hl=en
-      render: true
+      render: false
     - value: # if username is provided but not url, then we generate the url.
         network: github
-        username: acrlakshman
+        username: pjsutar
       render: true
     - value:
         network: linkedin
-        url: https://www.linkedin.com/in/lakshmananumolu/
+        url: https://www.linkedin.com/in/pawan-sutar
       render: true
     - value:
         network: twitter
         username: acrlakshman
         url: https://twitter.com/acrlakshman
-      render: true
+      render: false
     - value:
         network: vimeo
         url: https://vimeo.com/user24179204
@@ -78,13 +78,13 @@ work:
   rank: 2
   list:
     - value:
-        name: Walt Disney Animation Studios
-        location: Burbank, CA
+        name: Combustion and Propulsion Research Laboratory at IUPUI
+        location: Indianapolis, IN
         brief: ""
-        position: Senior Software Engineer
+        position: Graduate Research Assistant
         url: "https://www.disneyanimation.com/"
-        startDate: "2019" # string
-        endDate: Present # string
+        startDate: "01/2019" # string
+        endDate: "12/2020" # string
         active: true
         highlights:
           - detail: Sample text written as part of the demo for profileio. Sample text written as part of the demo for profileio
@@ -92,13 +92,13 @@ work:
             detail: This is the sample text written for the demo of profileio
       render: true
     - value:
-        name: Dreamworks Animation
-        location: Glendale, CA
+        name: Industrial Assessment Center
+        location: Indianapolis, IN
         brief: ""
-        position: Software Engineer
+        position: Energy Engineering Intern
         url: "https://www.dreamworks.com/"
-        startDate: "2017" # string
-        endDate: "2019" # string
+        startDate: "09/2018" # string
+        endDate: "05/2019" # string
         active: false # `true` if currently working, else `false`
         highlights:
           - detail: Sample text written as part of the demo for profileio. Sample text written as part of the demo for profileio
@@ -125,12 +125,12 @@ education:
   rank: 1
   list:
     - value:
-        institution: University of Wisconsin-Madison
-        url: https://wisc.edu
-        major: Computer Science
+        institution: Purdue University
+        url: https://www.purdue.edu
+        major: Mechanical Engineering
         minor: ''
-        degree: Ph.D.
-        grade: 3.9
+        degree: Master of Science
+        grade: 3.45
         gradeTotal: 4.0
         courses:
           - CS521 - Computer Graphics
