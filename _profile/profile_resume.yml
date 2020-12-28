@@ -22,16 +22,16 @@ config:
     resume: resume.pdf # path (relative to _profile/files/) for user submitted resume
 basics:
   name:
-    value: Lakshmi Vera
+    value: Pawan Sutar
     render: true
   label:
-    value: Senior Software Engineer
+    value: Mechanical Engineer
     render: true
   image:
     value: pic.png
     render: true
   email:
-    value: anumolu@uwalumni.com
+    value: pawansutar@outlook.com
     render: true
   phone:
     value: ''
