@@ -1,10 +1,10 @@
-I am currently employed at [This Company]. Before this I was in graduate school at [This University] where I earned a PhD. in [Computer Science](https://www.cs.wisc.edu/) under the supervision of [This Professor].
+Pawan is currently working as a freelance researcher at [Compbustion and Propulsion Research Laboratory at IUPUI, Indianapolis]. Before this he was in graduate school at [Purdue University, Indianapolis] where I earned an M.S. in [Mechanical Engineering](https://et.iupui.edu/departments/mee/programs/me/) under the supervision of [Dr. M. Razi Nalim].
 
 **My interests:**
 * Computer Graphics
 * Develop web & desktop applications
 * Physics based Modeling and Simulations
 
-[This University]: https://wisc.edu
-[This Professor]: https://wisc.edu
-[This Company]: https://github.com/acrlakshman/profileio
+[Purdue University, Indianapolis]: https://www.iupui.edu/
+[Dr. M. Razi Nalim]: https://et.iupui.edu/people/mnalim
+[Compbustion and Propulsion Research Laboratory at IUPUI, Indianapolis]: https://meengr.sitehost.iu.edu/cprl/
