@@ -28,7 +28,7 @@ basics:
     value: Mechanical Engineer
     render: true
   image:
-    value: PS Copy 1 Sq.jpg
+    value: pic.png
     render: true
   email:
     value: pawansutar@outlook.com
