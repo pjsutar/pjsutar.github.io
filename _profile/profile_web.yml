@@ -480,7 +480,7 @@ custom:
     webPage:
       slug: blog
       detail: custom/blog.md
-    render: true
+    render: false
 
   # Since "value" is not given, this is not rendered in the homepage,
   # but rendered in the route "/blog/profileio"
@@ -488,9 +488,9 @@ custom:
     webPage:
       slug: blog/profileio
       detail: custom/sample-code-snippets-2.md
-    render: true
+    render: false
 
   # rendered in the homepage
   - label: Few Random Points About ProfileIO
     value: custom/sample-code-snippets-1.md
-    render: true
+    render: false
