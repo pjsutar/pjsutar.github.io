@@ -28,7 +28,7 @@ basics:
     value: Mechanical Engineer
     render: true
   image:
-    value: PS Copy 1.jpg
+    value: PS Copy 1 Sq.jpg
     render: true
   email:
     value: pawansutar@outlook.com
@@ -82,7 +82,7 @@ work:
         location: Indianapolis, IN
         brief: ""
         position: Graduate Research Assistant
-        url: "https://www.disneyanimation.com/"
+        url: "https://meengr.sitehost.iu.edu/cprl/"
         startDate: "01/2019" # string
         endDate: "12/2020" # string
         active: true
@@ -96,7 +96,7 @@ work:
         location: Indianapolis, IN
         brief: ""
         position: Energy Engineering Intern
-        url: "https://www.dreamworks.com/"
+        url: "https://iaciupui.sitehost.iu.edu/"
         startDate: "09/2018" # string
         endDate: "05/2019" # string
         active: false # `true` if currently working, else `false`
