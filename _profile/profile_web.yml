@@ -116,7 +116,7 @@ work:
         highlights:
           - detail: Worked closely with sales and marketing team to transition customers from competitive products to Vision products
           - detail: Provided technical support to installation of equipment and consultation for maintenance activities and best practices
-      render: true
+      render: false
 education:
   label: Education
   rank: 1
@@ -143,11 +143,11 @@ projects:
   maxItemsToRender: 3 # If this is not provided, it defaults to 5 (src/config.ts)
   list:
     - value:
-        name: Two-Stroke Free Piston Range Extender Linear Engine for Hybrid Vehicles
+        name: Free-Piston Range Extender Linear Engine for Hybrid Vehicles
         description: "A crankless engine to efficiently generate electricity"
        # team: "_with [Lakshman Anumolu](//lakshmananumolu.com)_"
         note: ""
-        thumbnail: profileio.png
+        thumbnail: freepiston.jpeg
         highlights:
           - brief: ""
             detail: Website and resume generator via YAML
@@ -156,8 +156,8 @@ projects:
           - website
           - YAML
           - markdown
-        startDate: '2020' # string
-        endDate: Present
+        startDate: '08/2017' # string
+        endDate: '05/2018'
         # If webPage is not provided, then url will be linked in the homepage for this project
         url: https://github.com/acrlakshman/profileio
         roles:
