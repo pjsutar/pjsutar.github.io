@@ -122,21 +122,20 @@ education:
   rank: 1
   list:
     - value:
-        institution: Purdue University
+        institution: Purdue University, Indianapolis
         url: https://www.purdue.edu
-        major: Mechanical Engineering
+        major: Master's Thesis- Numerical Simulation of Pressure Wave Supercharger with Pockets Operating at Different Speeds
         minor: ''
-        degree: Master of Science
+        degree: Master of Science in Mechanical Engineering
         grade: 3.45
         gradeTotal: 4.0
-        Master's Thesis: Numerical Simulation of Pressure Wave Supercharger with Pockets Operating at Different Speeds
       render: true
     - value:
-        institution: KIT's College of Engineering (Autonomous)
+        institution: KIT's College of Engineering (Autonomous), Kolhapur (India)
         url: https://www.kitcoek.in
-        major: Mechanical Engineering
+        major: Bachelor's Thesis- Design and Development of a Free-Piston Range Extender Generator for Hybrid Vehicles
         minor: ''
-        degree: Bachelor of Engineering
+        degree: Bachelor of Engineering (Mechanical Engineering)
       render: true
 projects:
   label: "Projects"
@@ -144,9 +143,9 @@ projects:
   maxItemsToRender: 3 # If this is not provided, it defaults to 5 (src/config.ts)
   list:
     - value:
-        name: ProfileIO
-        description: "Delightfully simple website and resume generator for students, researchers, and engineers"
-        team: "_with [Lakshman Anumolu](//lakshmananumolu.com)_"
+        name: Two-Stroke Free Piston Range Extender Linear Engine for Hybrid Vehicles
+        description: "A crankless engine to efficiently generate electricity"
+       # team: "_with [Lakshman Anumolu](//lakshmananumolu.com)_"
         note: ""
         thumbnail: profileio.png
         highlights:
@@ -170,9 +169,9 @@ projects:
           detail: project/profileio.md # if the content is empty, "url" will be linked in the homepage for the project
       render: true
     - value:
-        name: Framework to Photorealistically Render Computational Fluid Dynamics Results
-        description: "Scene templates to kick-start scalable rendering of CFD results photorealistically."
-        team: "_with Lakshman Anumolu_"
+        name: Self-Driving Vehicle Control System
+        description: "Simulation of complete autonomous vehicle control system"
+        #team: "_with Lakshman Anumolu_"
         note: ""
         thumbnail: scene_templates.png
         highlights:
@@ -195,9 +194,9 @@ projects:
           detail: project/photorealistic-cfd.md
       render: true
     - value:
-        name: Project VII
-        description: Sample text written as part of the demo for ProfileIO
-        team: "_with [Pradeep Garigipati](//pradeepgarigipati.com)_"
+        name: Pressure-loss CFD Analysis of Cummins 6-cylinder Exhaust Manifold
+        description: Estimation of exhaust gas pressure-loss in exhaust manifold
+       # team: "_with [Pradeep Garigipati](//pradeepgarigipati.com)_"
         note: ""
         thumbnail: meshio_t.png
         highlights:
