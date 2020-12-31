@@ -159,14 +159,14 @@ projects:
         startDate: '08/2017' # string
         endDate: '05/2018'
         # If webPage is not provided, then url will be linked in the homepage for this project
-        url: https://github.com/acrlakshman/profileio
+        url: https://pjsutar.github.io/project/profileio
         roles:
-          - Architect
+          - Researcher
           - Developer
         type: application
         webPage:
-          slug: profileio
-          detail: project/profileio.md # if the content is empty, "url" will be linked in the homepage for the project
+          slug: free-piston
+          detail: project/free-piston.md # if the content is empty, "url" will be linked in the homepage for the project
       render: true
     - value:
         name: Self-Driving Vehicle Control System
