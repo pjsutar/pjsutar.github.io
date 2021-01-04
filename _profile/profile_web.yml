@@ -176,7 +176,7 @@ projects:
         thumbnail: self-driving.png
         highlights:
           - brief: ""
-            detail: Scene templates to process CFD results photorealistically
+            detail: Self-Driving Vehicle Simulation in Carla Simulator
         keywords:
           - Self-Driving
           - Controls
@@ -318,7 +318,7 @@ publications:
         # webPage:
         #   slug: levelset-phasechange
         #   detail: publications/levelset-phasechange.md
-      render: true
+      render: false
     - value:
         type: book
         author: "Author I, **Author II**, and Author III"
@@ -331,7 +331,7 @@ publications:
         thumbnail: dns_phasechange.png
         # If webPage is not provided, then url will be linked in the homepage for this project
         url: https://www.worldscientific.com/doi/abs/10.1142/9789813229440_0008
-      render: true
+      render: false
     - value:
         type: article
         author: "Author I, **Author II**, and Author III"
@@ -344,7 +344,7 @@ publications:
         thumbnail: levelset_deformation.png
         # If webPage is not provided, then url will be linked in the homepage for this project
         url: https://www.sciencedirect.com/science/article/pii/S0021999116307045
-      render: true
+      render: false
     - value:
         type: article
         author: "Author I, **Author II**, and Author III"
@@ -357,7 +357,7 @@ publications:
         thumbnail: jet_paper.jpg
         # If webPage is not provided, then url will be linked in the homepage for this project
         url: https://www.sciencedirect.com/science/article/pii/S0142727X13001707
-      render: true
+      render: false
     - value:
         type: article
         author: "**Author I** and Author II"
@@ -370,7 +370,7 @@ publications:
         thumbnail: gals_reinit.jpg
         # If webPage is not provided, then url will be linked in the homepage for this project
         url: http://onlinelibrary.wiley.com/doi/10.1002/fld.3834/abstract
-      render: true
+      render: false
     - value:
         type: article
         author: "Author I, **Author II**, and Author III"
@@ -383,7 +383,7 @@ publications:
         thumbnail: interfoam_thumbnail.png
         # If webPage is not provided, then url will be linked in the homepage for this project
         url: http://iopscience.iop.org/1749-4699/5/1/014016
-      render: true
+      render: false
 gallery:
   label: Gallery
   rank: 5
