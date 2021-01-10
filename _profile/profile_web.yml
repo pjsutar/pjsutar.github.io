@@ -25,7 +25,7 @@ basics:
     value: Pawan Sutar
     render: true
   label:
-    value: Mechanical Engineer
+    value: Ready for a challenging opportunity...
     render: true
   image:
     value: pic.png
@@ -40,7 +40,7 @@ basics:
     value: 'https://pjsutar.github.io'
     render: false
   summary:
-    label: About me
+    label: About
     value: summary.md
     render: true
   location:
@@ -150,7 +150,7 @@ projects:
         thumbnail: freepiston.jpeg
         highlights:
           - brief: ""
-            detail: Website and resume generator via YAML
+            detail: Free-Piston Range Extender Generator
         keywords:
           - resume
           - website
@@ -159,7 +159,7 @@ projects:
         startDate: '08/2017' # string
         endDate: '05/2018'
         # If webPage is not provided, then url will be linked in the homepage for this project
-        url: https://pjsutar.github.io/project/profileio
+        url: https://pjsutar.github.io/project/free-piston
         roles:
           - Researcher
           - Developer
@@ -173,44 +173,47 @@ projects:
         description: "Simulation of complete autonomous vehicle control system"
         #team: "_with Lakshman Anumolu_"
         note: ""
-        thumbnail: scene_templates.png
+        thumbnail: self-driving.png
         highlights:
           - brief: ""
-            detail: Scene templates to process CFD results photorealistically
+            detail: Self-Driving Vehicle Simulation in Carla Simulator
         keywords:
-          - CFD
-          - photorealistic
-          - mitsuba
+          - Self-Driving
+          - Controls
+          - Ego Vehicles
         startDate: '2020'
         endDate: Present
         # If webPage is not provided, then url will be linked in the homepage for this project
-        url: https://github.com/acrlakshman/scene_templates
+        url: https://pjsutar.github.io/project/self-driving
         roles:
-          - Architect
+          - Controls
           - Developer
         type: application
         webPage:
-          slug: photorealistic-computational-fluid-dynamics
-          detail: project/photorealistic-cfd.md
+          slug: self-driving
+          detail: project/self-driving.md
       render: true
     - value:
         name: Pressure-loss CFD Analysis of Cummins 6-cylinder Exhaust Manifold
-        description: Estimation of exhaust gas pressure-loss in exhaust manifold
+        description: "Estimation of exhaust gas pressure-loss in exhaust manifold"
        # team: "_with [Pradeep Garigipati](//pradeepgarigipati.com)_"
         note: ""
-        thumbnail: meshio_t.png
+        thumbnail: cumminscfd.png
         highlights:
           - brief: ""
-            detail: Sample text written as part of the demo for ProfileIO
+            detail: Cummins 6-cylinder Exhaust Manifold CFD Analysis in Ansys Fluent
         keywords:
-          - STL
-          - OBJ
-          - TLGF
-          - surface mesh
-        startDate: '2015'
-        endDate: Present
+          - CFD
+          - Meshing
+          - Exhaust Manifold
+          - Surface Mesh
+        startDate: '2019'
+        endDate: '2019'
         # If webPage is not provided, then url will be linked in the homepage for this project
-        url: https://github.com/acrlakshman/profileio
+        url: https://pjsutar.github.io/project/cumminscfd
+        webPage:
+          slug: cumminscfd
+          detail: project/cumminscfd.md
       render: true
     - value:
         name: Project VI
@@ -315,7 +318,7 @@ publications:
         # webPage:
         #   slug: levelset-phasechange
         #   detail: publications/levelset-phasechange.md
-      render: true
+      render: false
     - value:
         type: book
         author: "Author I, **Author II**, and Author III"
@@ -328,7 +331,7 @@ publications:
         thumbnail: dns_phasechange.png
         # If webPage is not provided, then url will be linked in the homepage for this project
         url: https://www.worldscientific.com/doi/abs/10.1142/9789813229440_0008
-      render: true
+      render: false
     - value:
         type: article
         author: "Author I, **Author II**, and Author III"
@@ -341,7 +344,7 @@ publications:
         thumbnail: levelset_deformation.png
         # If webPage is not provided, then url will be linked in the homepage for this project
         url: https://www.sciencedirect.com/science/article/pii/S0021999116307045
-      render: true
+      render: false
     - value:
         type: article
         author: "Author I, **Author II**, and Author III"
@@ -354,7 +357,7 @@ publications:
         thumbnail: jet_paper.jpg
         # If webPage is not provided, then url will be linked in the homepage for this project
         url: https://www.sciencedirect.com/science/article/pii/S0142727X13001707
-      render: true
+      render: false
     - value:
         type: article
         author: "**Author I** and Author II"
@@ -367,7 +370,7 @@ publications:
         thumbnail: gals_reinit.jpg
         # If webPage is not provided, then url will be linked in the homepage for this project
         url: http://onlinelibrary.wiley.com/doi/10.1002/fld.3834/abstract
-      render: true
+      render: false
     - value:
         type: article
         author: "Author I, **Author II**, and Author III"
@@ -380,7 +383,7 @@ publications:
         thumbnail: interfoam_thumbnail.png
         # If webPage is not provided, then url will be linked in the homepage for this project
         url: http://iopscience.iop.org/1749-4699/5/1/014016
-      render: true
+      render: false
 gallery:
   label: Gallery
   rank: 5
