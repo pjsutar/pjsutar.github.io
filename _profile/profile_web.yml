@@ -216,40 +216,36 @@ projects:
           detail: project/cumminscfd.md
       render: true
     - value:
-        name: Project VI
-        description: Sample text written as part of the demo for ProfileIO
+        name: Energy Data Analysis for Peak Shaving
+        description: Demand (kW) data analysis and investigation of cost-benefits of using peak-shaving generators
         team: ""
         note: ""
         thumbnail: bmv_t.gif
         highlights:
-          - detail: Sample text written as part of the demo for ProfileIO
+          - detail: Peak demand reduction to avoid hectic peak charges
         keywords:
-          - STL
-          - OBJ
-          - TLGF
-          - surface mesh
-        startDate: '2015'
-        endDate: Present
+          - Peak-shaving
+          - Pump station
+        startDate: '08/2018'
+        endDate: '12/2018'
         # If webPage is not provided, then url will be linked in the homepage for this project
-        url: https://github.com/acrlakshman/profileio
+        url: https://github.com/pjsutar/PYTHON-for-Data-Science-Projects/blob/main/EnergyDemandDataAnalysis.ipynb
       render: true
     - value:
-        name: Project V
-        description: Sample text written as part of the demo for ProfileIO
+        name: Energy Consumption Prediction
+        description: Implementation of linear regression and machine learning algorithms for energy data analysis
         team: ""
         note: ""
         thumbnail: crystal_growth_t.png
         highlights:
-          - detail: Sample text written as part of the demo for ProfileIO
+          - detail: Implementation of linear regression and machine learning algorithms for energy data analysis
         keywords:
-          - STL
-          - OBJ
-          - TLGF
-          - surface mesh
-        startDate: '2015'
-        endDate: Present
+          - Linear regression
+          - machine learning
+        startDate: '08/2019'
+        endDate: '12/2019'
         # If webPage is not provided, then url will be linked in the homepage for this project
-        url: https://github.com/acrlakshman/profileio
+        url: https://github.com/pjsutar/PYTHON-for-Data-Science-Projects/blob/main/
       render: true
     - value:
         name: Project IV
