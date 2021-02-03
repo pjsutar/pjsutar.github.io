@@ -220,7 +220,7 @@ projects:
         description: Demand (kW) data analysis and investigation of cost-benefits of using peak-shaving generators
         team: ""
         note: ""
-        thumbnail: bmv_t.gif
+        thumbnail: peakshaving.JPG
         highlights:
           - detail: Peak demand reduction to avoid hectic peak charges
         keywords:
@@ -236,7 +236,7 @@ projects:
         description: Implementation of linear regression and machine learning algorithms for energy data analysis
         team: ""
         note: ""
-        thumbnail: crystal_growth_t.png
+        thumbnail: energycons.JPG
         highlights:
           - detail: Implementation of linear regression and machine learning algorithms for energy data analysis
         keywords:
@@ -245,16 +245,16 @@ projects:
         startDate: '08/2019'
         endDate: '12/2019'
         # If webPage is not provided, then url will be linked in the homepage for this project
-        url: https://github.com/pjsutar/PYTHON-for-Data-Science-Projects/blob/main/
+        url: https://github.com/pjsutar/Energy-Consumption-Prediction/blob/main/EnergyPrediction.ipynb
       render: true
     - value:
-        name: Project IV
-        description: Sample text written as part of the demo for ProfileIO
+        name: Data Science Projects
+        description: Projects and exercizes in data analysis domain
         team: ""
         note: ""
-        thumbnail: taup_0_frame20.png
+        thumbnail: energycons.JPG
         highlights:
-          - detail: Sample text written as part of the demo for ProfileIO
+          - detail: Projects and exercizes in data analysis domain
         keywords:
           - STL
           - OBJ
@@ -263,7 +263,7 @@ projects:
         startDate: '2015'
         endDate: Present
         # If webPage is not provided, then url will be linked in the homepage for this project
-        url: https://github.com/acrlakshman/profileio
+        url: https://github.com/pjsutar/PYTHON-for-Data-Science-Projects
       render: true
     - value:
         name: Project III
@@ -282,7 +282,7 @@ projects:
         endDate: Present
         # If webPage is not provided, then url will be linked in the homepage for this project
         url: https://github.com/acrlakshman/profileio
-      render: true
+      render: false
 awards:
   label: Awards & Achievements
   rank: 11
