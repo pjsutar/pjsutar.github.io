@@ -88,7 +88,7 @@ work:
         active: true
         highlights:
           - detail: Quasi-one-dimensional simulation of wave rotor pressure wave supercharger with NASA in-house developed solver
-          - brief: ""
+          #- brief: ""
           - detail: Developed an unsteady, one-dimensional numerical model in FORTRAN to simulate the effects of wall-recesses in Mazda Comprex supercharger using simple lumped capacitance technique
           - detail: The numerical model algebraically solved Euler equations in integral form to estimate gas state in the wall-recesses
           - detail: Extended capability of in-house solver to incorporate the wall-recesses, which will allow the design of wall-recesses in future applications of wave rotors, including wave rotor combustors (wave turbines) and pulse detonation engines
@@ -108,7 +108,7 @@ work:
         active: false # `true` if currently working, else `false`
         highlights:
           - detail: Performing energy audits for small and medium sized companies (ASHRAE Level 1&2 audits)
-          - brief: ""
+          #- brief: ""
           - detail: Metering and analyzing plant energy consumption by collecting data from site and utility bills
           - detail: Finding energy saving opportunities and intelligent usage techniques by analyzing mechanical and electrical systems
           - detail: Calculating and estimating cost, payback period and rate of return for each Energy Management Opportunities (EMO)
