@@ -5,13 +5,13 @@ config:
   theme:
     value: basic
     render: true
-    #meta:
+    meta:
        #below keys are used by resume parser but not by web parser
-      #showPageNumbers: true
-      #hideSectionLines: false
-      #pantherHeaderNameFontSize: 45
-      #pantherHeaderColumnOneWidth: 0.6
-      #pantherHeaderColumnTwoWidth: 0.4
+      showPageNumbers: true
+      hideSectionLines: false
+      pantherHeaderNameFontSize: 45
+      pantherHeaderColumnOneWidth: 0.6
+      pantherHeaderColumnTwoWidth: 0.4
   analytics:
     ga:
       trackingId: ""
