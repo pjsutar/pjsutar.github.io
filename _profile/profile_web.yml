@@ -246,7 +246,7 @@ projects:
         description: Implementation of linear regression and machine learning algorithms for energy data analysis
         team: ""
         note: ""
-        thumbnail: dt1.PNG
+        thumbnail: dt1.png
         highlights:
           - detail: Implementation of linear regression and machine learning algorithms for energy data analysis
         keywords:
