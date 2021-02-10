@@ -87,15 +87,18 @@ work:
         endDate: "12/2020" # string
         active: true
         highlights:
-          - detail: Quasi-one-dimensional simulation of wave rotor pressure wave supercharger with NASA in-house developed solver
-          - brief: ""
           - detail: Developed an unsteady, one-dimensional numerical model in FORTRAN to simulate the effects of wall-recesses in Mazda Comprex supercharger using simple lumped capacitance technique
-          - detail: The numerical model algebraically solved Euler equations in integral form to estimate gas state in the wall-recesses
+          - brief: ""
           - detail: Extended capability of in-house solver to incorporate the wall-recesses, which will allow the design of wall-recesses in future applications of wave rotors, including wave rotor combustors (wave turbines) and pulse detonation engines
-          - detail: Developed a post-processing script in MATLAB to visualize and plot flow field, shock and expansion waves, pressure and temperature distribution, mass flow rates and velocity profiles
-          - detail: Created automated makefiles to compile different subroutines and input-output control software, organized computational programs by eliminating hardcoded blocks and defining input parameters, troubleshooting and debugging code
-          - detail: Validated one-dimensional supercharger design against the bench-top experimental data and published work
-          - detail: Supervised computational research program for two years, responsible for analysis of acquired information, preparing and finalizing reports, proposals, reviewing technical papers and manuscripts, and laboratory management
+          #- detail: Quasi-one-dimensional simulation of wave rotor pressure wave supercharger with NASA in-house developed solver
+          #- brief: ""
+          #- detail: Developed an unsteady, one-dimensional numerical model in FORTRAN to simulate the effects of wall-recesses in Mazda Comprex supercharger using simple lumped capacitance technique
+          #- detail: The numerical model algebraically solved Euler equations in integral form to estimate gas state in the wall-recesses
+          #- detail: Extended capability of in-house solver to incorporate the wall-recesses, which will allow the design of wall-recesses in future applications of wave rotors, including wave rotor combustors (wave turbines) and pulse detonation engines
+          #- detail: Developed a post-processing script in MATLAB to visualize and plot flow field, shock and expansion waves, pressure and temperature distribution, mass flow rates and velocity profiles
+          #- detail: Created automated makefiles to compile different subroutines and input-output control software, organized computational programs by eliminating hardcoded blocks and defining input parameters, troubleshooting and debugging code
+          #- detail: Validated one-dimensional supercharger design against the bench-top experimental data and published work
+          #- detail: Supervised computational research program for two years, responsible for analysis of acquired information, preparing and finalizing reports, proposals, reviewing technical papers and manuscripts, and laboratory management
       render: true
     - value:
         name: Industrial Assessment Center
@@ -107,13 +110,14 @@ work:
         endDate: "05/2019" # string
         active: false # `true` if currently working, else `false`
         highlights:
-          - detail: Performing energy audits for small and medium sized companies (ASHRAE Level 1&2 audits)
+          - detail: Performing energy audits for small and medium sized companies (ASHRAE Level 1&2 audits), collecting data by collaborating with stakeholders, data analysis and developing standards and decision-makings
           - brief: ""
-          - detail: Metering and analyzing plant energy consumption by collecting data from site and utility bills
-          - detail: Finding energy saving opportunities and intelligent usage techniques by analyzing mechanical and electrical systems
-          - detail: Calculating and estimating cost, payback period and rate of return for each Energy Management Opportunities (EMO)
-          - detail: Writing and editing official reports including plant and process description, best practices and description of EMOs
           - detail: Accomplishments: Participated in four industrial energy audits, contributed to the energy cost saving of over $50,000
+          #- detail: Metering and analyzing plant energy consumption by collecting data from site and utility bills
+          #- detail: Finding energy saving opportunities and intelligent usage techniques by analyzing mechanical and electrical systems
+          #- detail: Calculating and estimating cost, payback period and rate of return for each Energy Management Opportunities (EMO)
+          #- detail: Writing and editing official reports including plant and process description, best practices and description of EMOs
+          #- detail: Accomplishments: Participated in four industrial energy audits, contributed to the energy cost saving of over $50,000
       render: true
     - value:
         name: Vision Engineering Company
