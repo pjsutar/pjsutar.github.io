@@ -15,11 +15,11 @@ config:
   analytics:
     ga:
       trackingId: ''
-      enable: true
-  meta:
-    showResumeLink: true
+      enable: false
+  #meta:
+    #showResumeLink: true
     # below keys are used by web parser but not by resume parser
-    resume: resume.pdf # path (relative to _profile/files/) for user submitted resume
+    #resume: resume.pdf # path (relative to _profile/files/) for user submitted resume
 basics:
   name:
     value: Pawan Sutar
